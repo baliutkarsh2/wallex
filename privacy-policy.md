@@ -43,3 +43,5 @@ The data collected through Google Analytics is anonymized and aggregated, ensuri
 We may update this Privacy Policy to reflect changes in our practices or to ensure compliance with applicable laws. When we make changes, we will update the "Last Updated" date at the top of this policy. The amended Privacy Policy will be accessible on our website.
 
 By using Wallex, you agree to this Privacy Policy.
+
+Get in touch with us at wallex.contactus@gmail.com
