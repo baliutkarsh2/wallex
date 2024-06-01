@@ -2,7 +2,7 @@
 
 Welcome to **WalleX**, your ultimate destination for premium and stunning wallpapers! Transform your device's screen with a diverse range of high-quality wallpapers that cater to every taste and style.
 
-[![Download on Google Play](path/to/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ub.sum1.sum2)
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.ub.sum1.sum2)
 
 ## Features
 
@@ -40,4 +40,4 @@ For any inquiries, suggestions, or support, feel free to reach out to us at [wal
 
 Thank you for choosing WalleX! Enjoy a beautiful and personalized screen experience.
 
-[![Download on Google Play](path/to/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ub.sum1.sum2)
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.ub.sum1.sum2)
