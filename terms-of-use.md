@@ -1,3 +1,5 @@
+# Terms of Use
+
 ## Last updated: May 20th, 2024
 
 ### 1. Introduction
