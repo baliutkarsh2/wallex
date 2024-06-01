@@ -9,7 +9,7 @@ At Wallex, safeguarding your privacy is a top priority. This Privacy Policy outl
 
 For any inquiries, suggestions, or concerns regarding our use of your personal data or this Privacy Policy, please contact us at:
 
-**Email:** wallex.contactus@gmail.com
+**Email:** [wallex.contactus@gmail.com](mailto:wallex.contactus@gmail.com)
 
 ### 2. Collection and Storage of Personal Data
 
@@ -44,4 +44,4 @@ We may update this Privacy Policy to reflect changes in our practices or to ensu
 
 By using Wallex, you agree to this Privacy Policy.
 
-Get in touch with us at wallex.contactus@gmail.com
+Get in touch with us at [wallex.contactus@gmail.com](mailto:wallex.contactus@gmail.com).
