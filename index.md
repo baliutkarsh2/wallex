@@ -23,7 +23,7 @@ Whether you have a smartphone or a tablet, WalleX wallpapers are optimized to fi
 
 ## How to Use
 
-1. **Download the App**: [Get WalleX from the Google Play Store](https://play.google.com/store/apps/details?id=your.package.name).
+1. **Download the App**: [Get WalleX from the Google Play Store](https://play.google.com/store/apps/details?id=com.ub.sum1.sum2).
 2. **Browse Wallpapers**: Explore different categories or use the search feature to find wallpapers you love.
 3. **Set as Wallpaper**: Select your desired wallpaper and set it as your home screen or lock screen background with a single tap.
 4. **Save Favorites**: Add wallpapers to your favorites for quick access later.
